@@ -1,6 +1,6 @@
 # EOG-filtering
 
-In this project I used EOG (Electrooculography) data obtained from a subject through BIOPAC after connecting channel 1&2 electrodes to their right places as shown in the picture. Then by using python (scipy) I applied bandpass, notch filter, and ICA to remove motion artifacts.
+In this project I used EOG (Electrooculography) data obtained from a subject through BIOPAC after connecting channel 1&2 electrodes to their right places as shown in the picture. The subject was required to move they eye in horizontal and vertical motion, and was required to do tasks such as reading. Then by using python (scipy) I applied bandpass, notch filter, and ICA to remove motion artifacts.
 
 <p align="center">
 <img width="213" height="498" alt="image" src="https://github.com/user-attachments/assets/a88fd9cc-0919-40ee-b89d-0838bf8a728c" />
